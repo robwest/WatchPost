@@ -1,6 +1,3 @@
-\*\* WatchPost
-=========
-
 # WatchPost
 A script to watch a particular process for a drop in CPU utilization.
 
